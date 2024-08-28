@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jude Kiggundu
 - 👀 I’m interested in programming with JS and python
-- 🌱 I’m currently learning react and python
+- 🌱 I’m currently learning react,node js and python
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me kiggundujude120@gmail.com || +256 708634469
-- 😄 Pronouns: ...
+- 😄 Pronouns: Him
 - ⚡ Fun fact: I 17 and in Uganda
 
 <!---
