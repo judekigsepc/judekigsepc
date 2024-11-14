@@ -4,7 +4,7 @@
 I'm a 17-year-old developer on a mission to harness the power of technology to solve real-world problems. Currently diving deep into React, Node.js, and MongoDB, I’m building projects to sharpen my skills and contribute to the tech community. I aim to make a positive impact by helping local businesses adopt efficient digital solutions and bringing tech resources to my community.
 
 🌱 What I'm Working On
-🧑‍💻 Building a movie streaming app to master React and API integration
+🧑‍💻 Building a POS system
 🚀 Developing a school management system using the MERN stack
 📘 Learning data structures and algorithms for better problem-solving
 
