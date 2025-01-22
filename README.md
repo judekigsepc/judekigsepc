@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an **unstoppable tech enthusiast** and **softw
 ### 🔭 What I'm Working On  
 - ⚙️ Building a **BMS System** customized for with real-time features powered by **Socket.IO**  
 - 🌟 Developing a **Vs code like workspace for ms word**
-- Also developing an ecommerce app
+- 🌟 Developing an **Ecommerce app like EBAY**
 - 🚀 Exploring **Mobile development with React Native**
 
 
