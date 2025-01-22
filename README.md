@@ -4,9 +4,10 @@
 Welcome to my GitHub profile! I'm an **unstoppable tech enthusiast** and **software developer** from Uganda 🇺🇬, driven by a deep passion for solving problems with technology. Every project I work on is an opportunity to learn, innovate, and make an impact.  
 
 ### 🔭 What I'm Working On  
-- ⚙️ Building a **POS System** customized for with real-time features powered by **Socket.IO**  
-- 🌟 Developing a **School Management System**
-- 🚀 Exploring **VS Code Extension Development** 
+- ⚙️ Building a **BMS System** customized for with real-time features powered by **Socket.IO**  
+- 🌟 Developing a **Vs code like workspace for ms word**
+- 🚀 Exploring **Mobile development with React Native**
+
 
 ### 💡 What Fuels Me  
 I believe technology is the ultimate tool for change, and I’m committed to mastering it. I’m passionate about coding because it’s not just a skill—it’s a superpower to turn ideas into reality.  
