@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an **unstoppable tech enthusiast** and **softw
 ### 🔭 What I'm Working On  
 - ⚙️ Building a **School Management System** customized for with ai features and real time functionality 
 - 🌟 Developing a **Messenger based marketing chat bot**
-- 🌟 Developing an **Ecommerce app like EBAY**
+- 🌟 Developing a state of the art (update:currently on hold) **POS SYSTEM**
 - 🚀 Exploring **Mobile development with React Native**
 
 
