@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm an **unstoppable tech enthusiast** and **software developer** from Uganda 🇺🇬, driven by a deep passion for solving problems with technology. Every project I work on is an opportunity to learn, innovate, and make an impact.  
 
 ### 🔭 What I'm Working On  
-- ⚙️ Building a **School Management System** customized for with real-time features powered by **Socket.IO**  
+- ⚙️ Building a **School Management System** customized for with ai features and real time functionality 
 - 🌟 Developing a **Messenger based marketing chat bot**
 - 🌟 Developing an **Ecommerce app like EBAY**
 - 🚀 Exploring **Mobile development with React Native**
